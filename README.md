@@ -1,5 +1,4 @@
-# Hello World
- Primeiro Repositório
- First Repository
+# Site exemplo
+Primeiro projeto a fim de aprender a utilizar o GitHub Pages
  
- Criado durante um curso.
+Criado durante um curso.
